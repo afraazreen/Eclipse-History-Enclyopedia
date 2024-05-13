@@ -1,5 +1,5 @@
 # Eclipse History Encyclopedia
-The Eclipse History Encyclopedia is a command-line tool written in Clojure that allows users to manage records of eclipse events. It provides various functionalities for viewing, adding, modifying, and searching eclipse events stored in an external file called eclipse_events.txt.
+The Eclipse History Encyclopedia is a command-line tool written in Clojure that allows users to manage records of eclipse events. It provides various functionalities for viewing, adding, modifying, and searching eclipse events stored in an external file called eclipse_events.txt. I chose to make this due to the solar eclipse on April 8th 2024.
 
 ## Features
 ### 1. View Eclipse Events
